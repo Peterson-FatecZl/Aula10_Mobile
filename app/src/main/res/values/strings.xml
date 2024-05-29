@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cálculos Geométricos</string>
+    <string name="retangulo">Retangulo</string>
+    <string name="circulo">Circulo</string>
+
+    <string name="tvBaseRetangulo">Insira a Base do Retangulo</string>
+    <string name="tvAlturaRetangulo">Insira a Altura do Retangulo</string>
+    <string name="etBase">Base:</string>
+    <string name="etAltura">Altura:</string>
+
+    <string name="tvRaioCirculo">Insira o Raio do Círculo</string>
+    <string name="etRaio">Raio:</string>
+
+    <string name="btnCalcularArea">Calcular área</string>
+    <string name="btnCalcularPerimetro">Calcular Perímetro</string>
+
+</resources>
